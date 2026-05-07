@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Yanxin 🦋
 
-<!--
-**yanxinlii/yanxinlii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing a Master of Management in Analytics at McGill University, with a background in Finance and communication, experienced working on data-driven business projects.
 
-Here are some ideas to get you started:
+I'm interested in the intersection of analytics, business decision-making, and machine learning — especially turning messy real-world data into insights people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Procurement & supply chain analytics dashboards
+- NLP and machine learning projects
+- Data visualization and business intelligence
+- Applying analytics to real operational problems
+
+## Tools & Skills
+Python | SQL | Power BI | Machine Learning | Data Visualization | Financial Analysis
